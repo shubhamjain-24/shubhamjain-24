@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm Shubham Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn270.picsart.com/8fd952e9-94d8-4e12-8500-a85fa307597b/442871919031201.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjain-24&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjain-24" /> </p>
 
